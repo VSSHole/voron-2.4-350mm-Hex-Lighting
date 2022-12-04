@@ -7,3 +7,5 @@
 CA glue [I prefer BSI for zero hazing]
 Black ASA or ABS
 Clear PETG or similar
+
+I used the soldering jig to wire up all the strips before glueing them into the printed channels
